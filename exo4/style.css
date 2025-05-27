@@ -1,0 +1,73 @@
+* { box-sizing: border-box; }
+body {
+  margin: auto;
+  font-family: Arial, sans-serif;
+  background: #fffaf0;
+  padding: auto;
+}
+main {
+  padding: 100px 20px 80px;
+}
+h2 {
+  text-align: center;
+  color: #333;
+}
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+.card {
+  width: 400px;
+  height: 250px;
+  background-color: rgb(30, 55, 245);
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  text-align: center;
+  padding-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.card img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin-top: 30px;
+}
+.card1 {
+  width: 400px;
+  height: 250px;
+  background: white;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  text-align: center;
+  padding-top: 0px;
+ padding-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.btn {
+  display: inline-block;
+  margin: 10px auto;
+  background: rgb(30, 55, 245);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 6px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+  header nav {
+    margin-top: 10px;
+  }
+}
