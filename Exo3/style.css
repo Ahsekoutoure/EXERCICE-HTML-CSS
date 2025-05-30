@@ -1,46 +1,54 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background:green;
+    background:rgb(4, 163, 110);
     margin: auto;
+    justify-content: center;
+    box-sizing: border-box;
 }
 .content{
-display: flex;
+display: grid;
 flex-direction: column;
-padding: 20px;
+padding: 10px;
 flex-wrap: wrap;
 background-color: none;
 margin: 0 auto;
 justify-content: center;
 
+
 }
-.bton{
-    background: rgb(1, 93, 1);
-    width: 400px;
+.item{
+    background: rgb(7, 104, 72);
+    width: 460px;
+    height:60px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    justify-content: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+
 }
 .flex-item{
+    background: white;
     width: 450px;
     height: 400px;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
-    margin-top: 85px;
     margin-bottom: 40px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(240, 237, 237, 0.521);
-    
-}
-h1{
-    text-align: center;
-    padding-top: 20;
-    color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;  
 }
 h2{
     text-align: center;
     font-size: 30px;
     color: white;
-    margin: 50px;
+    margin: auto;
+    margin-top: 10px;
 }
+   
 p{
-    color: white;
+    color: rgb(17, 16, 16);
     font-size: 1.2em;
 }
 .p{
@@ -49,90 +57,55 @@ p{
 }
 input,button{
     background-color: none;
-    border: none;
     margin: 8px;
-    width: 400px;
+    width: 3800px;
     height: 40px;
     padding: 10px;
     margin-left: 0px;
     mask-border-outset: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1 solid rgb(63, 62, 62);
 }
 button{
-    width: 480px;
-    height: 40px;
+    width: 420px;
+    height: 35px;
     font-size: 1.3em;
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(5, 108, 243);
+    background-color: rgb(7, 104, 72);
     color: white;
     justify-content: center;
     padding: 15px;
     padding-bottom: 50px;
     margin: 10px;
     margin-left: 10px;
-    
+    border: none;
+    border-radius: 10px;  
 }
 a{
     text-decoration: none;
-    color: #007BFF;
+    color: rgb(7, 104, 72);
     font-size: 1em;
 }
-.bton{
-    display: flex;
+label{
+    margin: 10px;
+     display: flex;
     flex-direction: row;
-    justify-content: center;
+    background-color: white;
+    justify-items: center;
 }
-.bfb{
-    display: flex;
-    flex-direction: column;
-    gap:10px;
+.ig{
+    background: rgb(7, 104, 72);
+    height: 65px;
+    width: 40px;
+    margin-top: 8px;
 }
-.bfb button{
-    display: flex;
-    font-size: 1.2em;
-    background: #4267b2;
-  justify-content: center;
-  width: 220px;
-  height: 40px;
-  margin-right: 10px;
-}
-.binsta{
-    display: flex;
-    flex-direction: column;
-    gap:10px;
-  
-}
-.binsta button{
-    background-color: rgb(226, 62, 90);
-    color: white;
-     display: flex; 
-   justify-content: center;
-    width: 220px;
-  margin-left: 10px;
-}
-img{
-    width: 30px;
+label img{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 0;
+     width: 30px;
     height: 30px;
     border: none;
     margin-right: 5px;
-}
-.labelemail{
-    display: flex;
-    flex-direction: row;
-    background-color: white;
-}
-.labelpass{
-    display: flex;
-    flex-direction: row;
-     background: white;
-}
-label{
-    border-radius: 1px;
-    margin: 10px;
-   
-
-}
-label img{
-    margin-top: 25px;
-    margin-left: 10px;
-    margin-right: 0;
 }
