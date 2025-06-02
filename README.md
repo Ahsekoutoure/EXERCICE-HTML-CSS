@@ -16,6 +16,7 @@ Rendu d'une interface de connection a travers son compet gmail ou facebook
 Rendu d'une interface de connection a travers son compet gmail,facebook ou intagram avec un background image 
 
 ## Capture en vue
+
 <img src="/Capture/Capture-Exo2.png" alt="capture d'ecran" width="600" height="800"/>
 
 ## CSS: 
