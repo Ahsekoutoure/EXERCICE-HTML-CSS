@@ -7,7 +7,7 @@ Rendu d'une interface de connection a travers son compet gmail ou facebook
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
 
 ## Capture en vue
-<img src="/Capture/CaptureExo1.png" alt="capture d'ecran" width="600" height="800"/>
+<img src="Capture/CaptureExo1.png" alt="capture d'ecran" width="600" height="800"/>
 
 ## CSS: 
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
