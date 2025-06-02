@@ -3,9 +3,14 @@ Description: ce repository regroupe tous les exercices que je suis entrain d'eff
 
 ## Exo1
 Rendu d'une interface de connection a travers son compet gmail ou facebook
+## CSS: 
+ display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
 
 ## Capture en vue
 <img src="/Capture/Capture-Exo1.png" alt="capture d'ecran" width="600" height="800"/>
+
+## CSS: 
+ display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
 
 ## Exo2
 Rendu d'une interface de connection a travers son compet gmail,facebook ou intagram avec un background image 
@@ -13,8 +18,8 @@ Rendu d'une interface de connection a travers son compet gmail,facebook ou intag
 ## Capture en vue
 <img src="/Capture/Capture-Exo2.png" alt="capture d'ecran" width="600" height="800"/>
 
-## CSS:
- display-flex; flex-direction-row;
+## CSS: 
+ display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
 
  ## Exo3
 Rendu d'une interface de fourmulaire à remplir en avec css
@@ -22,17 +27,23 @@ Rendu d'une interface de fourmulaire à remplir en avec css
 ## Capture en vue
 <img src="/Capture/Capture-Exo3.png" alt="capture d'ecran" width="600" height="800"/>
 
+ ## CSS: 
+ display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
+
  ## Exo4
-Rendu d'une interface de profile d'un utilisateur
-## CSS:
- display-flex; flex-direction-row;
+Rendu d'une interface de profile d'un compte utilisateur
 
 ## Capture en vue
 <img src="/Capture/Capture-Exo4.png" alt="capture d'ecran" width="600" height="800"/>
 
- ## Exo
+## CSS: 
+ display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
+
+ ## Exo1-Boostrap
 Rendu d'une interface de galerie d'images avec des description en utilisant du boostrap
 
 ## Capture en vue
 <img src="/Capture/Capture-Exo4.png" alt="capture d'ecran" width="600" height="800"/>
 
+## Css
+col-12 col-sm-6 col-md-4 col-lg-3; card;
