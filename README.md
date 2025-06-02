@@ -17,7 +17,7 @@ Rendu d'une interface de connection a travers son compet gmail,facebook ou intag
 
 ## Capture en vue
 
-<img src="/Capture/CaptureExo2.png" alt="capture d'ecran" width="600" height="800"/>
+<img src="Capture/CaptureExo2.png" alt="capture d'ecran" width="600" height="800"/>
 
 ## CSS: 
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
@@ -26,7 +26,7 @@ Rendu d'une interface de connection a travers son compet gmail,facebook ou intag
 Rendu d'une interface de fourmulaire à remplir en avec css
 
 ## Capture en vue
-<img src="/Capture/CaptureExo3.png" alt="capture d'ecran" width="600" height="800"/>
+<img src="Capture/CaptureExo3.png" alt="capture d'ecran" width="600" height="800"/>
 
  ## CSS: 
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
@@ -35,7 +35,7 @@ Rendu d'une interface de fourmulaire à remplir en avec css
 Rendu d'une interface de profile d'un compte utilisateur
 
 ## Capture en vue
-<img src="/Capture/CaptureExo4.png" alt="capture d'ecran" width="600" height="800"/>
+<img src="Capture/CaptureExo4.png" alt="capture d'ecran" width="600" height="800"/>
 
 ## CSS: 
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
@@ -44,7 +44,7 @@ Rendu d'une interface de profile d'un compte utilisateur
 Rendu d'une interface de galerie d'images avec des description en utilisant du boostrap
 
 ## Capture en vue
-<img src="/Capture/CaptureExo1Bootstrap.png" alt="capture d'ecran" width="600" height="800"/>
+<img src="Capture/CaptureExo1Bootstrap.png" alt="capture d'ecran" width="600" height="800"/>
 
 ## Css
 col-12 col-sm-6 col-md-4 col-lg-3; card;
