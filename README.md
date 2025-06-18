@@ -17,7 +17,7 @@ Rendu d'une interface de connection a travers son compet gmail,facebook ou intag
 
 ## Capture en vue
 
-<img src="./Capture/CaptureExo1.png" alt="capture d'ecran" width="600"/>
+<img src="./Capture/CaptureExo2.png" alt="capture d'ecran" width="600"/>
 
 ## CSS: 
  display: flex;flex-wrap: wrap;flex-direction: row; border-radius; margin,padding
